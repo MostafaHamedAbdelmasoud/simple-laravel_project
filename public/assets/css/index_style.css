@@ -1,0 +1,64 @@
+
+/*
+.inputfile
+{
+	width: 0.1px;
+	height: 0.1px;
+	opacity: 0;
+	overflow: hidden;
+	position: absolute;
+	z-index: -1;
+}
+
+.inputfile:focus + label {
+	outline: 1px dotted #000;
+	outline: -webkit-focus-ring-color auto 5px;
+}
+
+.inputfile + label   {
+    font-size: 1.25em;
+    font-weight: 700;
+    color: white;
+    background-color: red;
+    display: inline-block;
+	padding: 15px;
+	
+}
+
+.inputfile:focus + label,
+.inputfile + label:hover {
+    background-color: #4b0f31;
+}
+.inputfile + label {
+	cursor: pointer; 
+}
+*/
+.bvt
+{
+	text-decoration: none;
+	color: #09c;
+	font-size: 48px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
